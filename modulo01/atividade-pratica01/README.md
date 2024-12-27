@@ -1,1 +1,5 @@
-![alt text](<Captura de tela de 2024-12-23 20-30-36.png>)
+![alt text](img-readme/HOME.png)
+![alt text](img-readme/MODALIDADES.png)
+![alt text](img-readme/VANTAGENS.png)
+![alt text](img-readme/FRETAMENTO.png)
+![alt text](img-readme/CONTATO.png)
