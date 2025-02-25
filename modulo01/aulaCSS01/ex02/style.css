@@ -1,0 +1,42 @@
+.principal {
+  margin: 0 auto;
+  width: 960px;
+  height: 780px;
+  border: 1px solid red;
+}
+
+.cabecalho{
+    width: 960px;
+    height: 180px;
+    border: 1px solid red;
+}
+
+.menu{
+    width: 180px;
+    height: 500px;
+    border: 1px solid red;
+    float: left;
+}
+
+.corpo{
+    width: 593px;
+    height: 500px;
+    border: 1px solid red;
+    float: left;
+}
+.menuu{
+    width: 180px;
+    height: 500px;
+    border: 1px solid red;
+    float: right;
+}
+.rodape{
+    width: 960px;
+    height: 94px;
+    border: 1px solid red;
+    float: right;
+}
+
+.clear{
+    clear: both;
+}

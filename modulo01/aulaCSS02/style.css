@@ -1,0 +1,47 @@
+.flex-container{
+    background-color: rebeccapurple;
+    width: 50%;
+    height: 500px;
+    padding: 10px;
+    margin: auto;
+}
+
+.card-roxo{
+    background-color: rgb(190, 142, 235);
+    width: 100%;
+    height: 70px;
+    margin: 10px;
+}
+
+
+.aling{
+    display: flex;
+    align-content: flex-end;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-amarelo{
+    background-color: yellow;
+    height: 300px;
+    width: 60%;
+    
+}
+
+.card-vermelho{
+    background-color: red;
+    height: 60px;
+    width: 60%;
+}
+.cz{
+    display: flex;
+    justify-content: flex-end;
+}
+.card-azul{
+    background-color: blue;
+    width: 10%;
+}
+

@@ -1,0 +1,14 @@
+#principal{
+    margin: auto;
+    width: 90%;
+    height: 550px;
+    border: 5px red solid;
+    padding-top: 15px;
+}
+
+#filho{
+    margin: auto;
+    width: 90%;
+    height: 350px;
+    border: 5px red solid;
+}

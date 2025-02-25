@@ -1,0 +1,221 @@
+ID_Venda,Data_Venda,Cliente,Animal,Produto,Valor,Pagamento,Vendedor
+1,2023-06-16,Juliana Rodrigues,Peixe,Higiene,67.31,Dinheiro,Juliana
+2,2023-03-04,Francisca Gomes,Gato,Acessório,121.24,Cartão,Ana
+3,2023-05-03,Francisca Costa,Peixe,Acessório,52.05,Cartão,Lucas
+4,2023-04-29,Antônio Oliveira,Cachorro,Acessório,69.38,Pix,Beatriz
+5,2023-11-13,Maria Almeida,Pássaro,Brinquedo,125.95,Pix,João
+6,2023-01-07,Carlos Ribeiro,Pássaro,Higiene,16.56,Pix,Fernanda
+7,2023-11-19,Ana Souza,Roedor,Higiene,176.05,Cartão,João
+8,2023-07-19,Antônio Costa,Pássaro,Acessório,33.82,Dinheiro,Lucas
+9,2023-04-22,Paulo Pereira,Gato,Ração,93.06,Pix,Lucas
+10,2023-04-07,Paulo Rodrigues,Gato,Remédio,46.81,Dinheiro,Fernanda
+11,2023-01-19,Francisca Pereira,Roedor,Acessório,114.05,Cartão,Pedro
+12,2023-05-22,Juliana Souza,Roedor,Brinquedo,165.38,Dinheiro,Marcos
+13,2023-08-03,Francisca Ribeiro,Cachorro,Remédio,157.19,Pix,Pedro
+14,2023-01-06,João Rodrigues,Cachorro,Brinquedo,59.12,Dinheiro,Maria
+15,2023-11-16,João Rodrigues,Gato,Brinquedo,17.26,Pix,Ana
+16,2023-09-02,José Silva,Cachorro,Acessório,138.1,Dinheiro,Marcos
+17,2023-02-03,Adriana Ribeiro,Gato,Higiene,164.53,Cartão,João
+18,2023-07-03,Juliana Pereira,Peixe,Ração,26.75,Cartão,Ana
+19,2023-10-16,Carlos Almeida,Gato,Brinquedo,133.5,Dinheiro,Pedro
+20,2023-04-17,Antônio Almeida,Peixe,Ração,115.21,Pix,Marcos
+21,2023-02-25,Maria Silva,Pássaro,Ração,199.84,Pix,Ana
+22,2023-03-26,Paulo Rodrigues,Peixe,Higiene,189.49,Pix,Carlos
+23,2023-03-25,Carlos Gomes,Peixe,Brinquedo,26.39,Dinheiro,Fernanda
+24,2023-04-15,Francisca Gomes,Pássaro,Acessório,91.22,Cartão,Pedro
+25,2023-11-12,João Gomes,Gato,Ração,88.11,Pix,Pedro
+26,2023-09-05,Juliana Gomes,Cachorro,Brinquedo,114.49,Cartão,Lucas
+27,2023-08-20,Antônio Ribeiro,Roedor,Ração,32.71,Dinheiro,Lucas
+28,2023-04-20,Antônio Santos,Peixe,Acessório,152.27,Dinheiro,Maria
+29,2023-08-25,Paulo Pereira,Cachorro,Ração,128.07,Pix,Beatriz
+30,2023-01-25,João Oliveira,Peixe,Higiene,103.9,Pix,Pedro
+31,2023-12-31,Ana Almeida,Peixe,Remédio,94.87,Pix,Maria
+32,2023-10-15,Ana Ribeiro,Gato,Acessório,16.83,Cartão,João
+33,2023-01-18,Paulo Almeida,Cachorro,Ração,143.26,Dinheiro,Maria
+34,2023-08-16,Paulo Oliveira,Gato,Ração,181.59,Cartão,Pedro
+35,2023-06-17,Carlos Santos,Gato,Brinquedo,170.98,Cartão,Carlos
+36,2023-05-21,Maria Rodrigues,Cachorro,Higiene,77.87,Dinheiro,Juliana
+37,2023-12-20,Juliana Ribeiro,Gato,Ração,83.85,Cartão,Pedro
+38,2023-03-05,Maria Gomes,Cachorro,Higiene,145.55,Pix,Carlos
+39,2023-10-24,José Almeida,Pássaro,Brinquedo,38.25,Pix,Beatriz
+40,2023-02-11,Antônio Ribeiro,Peixe,Remédio,150.86,Pix,Marcos
+41,2023-07-03,Antônio Rodrigues,Gato,Brinquedo,58.53,Dinheiro,Ana
+42,2023-12-30,Juliana Pereira,Cachorro,Acessório,50.46,Cartão,Juliana
+43,2023-06-23,José Pereira,Peixe,Higiene,165.45,Cartão,Lucas
+44,2023-11-08,Francisca Almeida,Pássaro,Ração,64.83,Dinheiro,Beatriz
+45,2023-07-06,Juliana Santos,Peixe,Ração,20.76,Pix,Marcos
+46,2023-01-15,Antônio Silva,Cachorro,Higiene,107.8,Pix,Juliana
+47,2023-09-04,Paulo Silva,Cachorro,Brinquedo,58.84,Dinheiro,Carlos
+48,2023-06-15,João Oliveira,Roedor,Remédio,106.59,Cartão,Marcos
+49,2023-05-30,Paulo Oliveira,Peixe,Remédio,27.44,Cartão,Lucas
+50,2023-06-29,Antônio Oliveira,Roedor,Brinquedo,42.81,Dinheiro,Lucas
+51,2023-04-10,Antônio Pereira,Roedor,Brinquedo,105.85,Dinheiro,Juliana
+52,2023-03-30,Paulo Silva,Gato,Higiene,131.28,Cartão,João
+53,2023-03-18,Paulo Almeida,Pássaro,Acessório,147.29,Dinheiro,Carlos
+54,2023-02-15,Adriana Rodrigues,Pássaro,Ração,11.48,Cartão,Pedro
+55,2023-12-26,José Santos,Pássaro,Acessório,157.7,Dinheiro,Fernanda
+56,2023-09-18,Maria Almeida,Pássaro,Higiene,190.73,Cartão,Lucas
+57,2023-04-07,Ana Almeida,Peixe,Brinquedo,156.27,Cartão,Ana
+58,2023-08-12,José Souza,Peixe,Acessório,66.35,Cartão,Pedro
+59,2023-02-22,Paulo Pereira,Roedor,Higiene,92.32,Pix,Marcos
+60,2023-05-11,Paulo Rodrigues,Peixe,Ração,58.75,Cartão,Fernanda
+61,2023-02-13,Juliana Oliveira,Pássaro,Remédio,81.72,Cartão,Fernanda
+62,2023-06-17,Maria Ribeiro,Gato,Acessório,196.14,Pix,Ana
+63,2023-09-30,Antônio Silva,Gato,Brinquedo,189.33,Cartão,Carlos
+64,2023-03-12,Paulo Pereira,Roedor,Remédio,97.47,Cartão,Marcos
+65,2023-08-16,Adriana Souza,Peixe,Brinquedo,25.49,Pix,João
+66,2023-11-17,José Almeida,Pássaro,Ração,38.51,Dinheiro,João
+67,2023-09-22,Paulo Santos,Gato,Remédio,72.59,Dinheiro,Ana
+68,2023-01-10,Carlos Souza,Peixe,Remédio,121.64,Dinheiro,Ana
+69,2023-04-20,Paulo Santos,Peixe,Brinquedo,177.3,Dinheiro,Ana
+70,2023-03-01,Francisca Oliveira,Gato,Brinquedo,125.81,Pix,Pedro
+71,2023-07-01,Francisca Santos,Peixe,Acessório,17.29,Pix,Fernanda
+72,2023-07-03,Paulo Silva,Cachorro,Brinquedo,85.84,Cartão,Beatriz
+73,2023-04-26,Paulo Oliveira,Cachorro,Acessório,176.39,Dinheiro,Ana
+74,2023-09-26,João Rodrigues,Cachorro,Remédio,76.22,Dinheiro,Carlos
+75,2023-03-25,Ana Santos,Pássaro,Higiene,80.87,Dinheiro,Carlos
+76,2023-07-24,Juliana Souza,Pássaro,Ração,153.43,Pix,Beatriz
+77,2023-09-19,Carlos Ribeiro,Cachorro,Remédio,42.91,Dinheiro,Marcos
+78,2023-09-13,Ana Gomes,Roedor,Ração,14.82,Dinheiro,Juliana
+79,2023-09-04,João Souza,Roedor,Brinquedo,24.76,Dinheiro,João
+80,2023-07-22,Francisca Ribeiro,Cachorro,Brinquedo,13.25,Pix,Fernanda
+81,2023-04-09,Carlos Ribeiro,Gato,Ração,68.66,Cartão,Pedro
+82,2023-02-25,Adriana Santos,Pássaro,Ração,108.47,Dinheiro,Carlos
+83,2023-01-20,Maria Oliveira,Cachorro,Brinquedo,53.04,Cartão,João
+84,2023-11-08,Antônio Silva,Gato,Higiene,101.14,Cartão,Fernanda
+85,2023-08-02,João Almeida,Peixe,Remédio,23.06,Pix,Pedro
+86,2023-10-16,José Rodrigues,Pássaro,Acessório,40.8,Pix,Lucas
+87,2023-01-27,Carlos Rodrigues,Gato,Ração,180.98,Cartão,Ana
+88,2023-08-31,José Gomes,Roedor,Acessório,123.32,Pix,Carlos
+89,2023-07-31,Adriana Souza,Pássaro,Brinquedo,140.2,Cartão,João
+90,2023-12-22,João Pereira,Peixe,Brinquedo,153.43,Pix,Marcos
+91,2023-09-12,Ana Oliveira,Roedor,Acessório,164.13,Dinheiro,Lucas
+92,2023-12-14,Antônio Oliveira,Roedor,Remédio,88.67,Cartão,João
+93,2023-04-09,Francisca Oliveira,Roedor,Remédio,193.22,Cartão,Marcos
+94,2023-05-13,João Oliveira,Peixe,Brinquedo,150.98,Dinheiro,João
+95,2023-01-31,Ana Almeida,Pássaro,Remédio,171.43,Pix,Lucas
+96,2023-08-25,Antônio Silva,Peixe,Acessório,39.68,Dinheiro,Maria
+97,2023-03-10,Francisca Costa,Peixe,Brinquedo,31.27,Cartão,João
+98,2023-05-24,Juliana Souza,Roedor,Acessório,38.58,Cartão,Fernanda
+99,2023-04-12,Paulo Souza,Roedor,Acessório,102.72,Pix,Pedro
+100,2023-06-17,Adriana Rodrigues,Pássaro,Acessório,56.29,Cartão,Maria
+101,2023-06-23,Adriana Oliveira,Gato,Higiene,169.06,Pix,Maria
+102,2023-04-08,João Silva,Peixe,Acessório,68.22,Cartão,Carlos
+103,2023-08-31,José Pereira,Pássaro,Ração,76.09,Cartão,Pedro
+104,2023-07-23,Carlos Oliveira,Cachorro,Remédio,168.37,Dinheiro,Maria
+105,2023-07-25,Antônio Rodrigues,Pássaro,Acessório,53.13,Dinheiro,Lucas
+106,2023-10-12,José Pereira,Peixe,Acessório,106.76,Cartão,Pedro
+107,2023-08-02,João Rodrigues,Gato,Higiene,95.51,Cartão,Maria
+108,2023-11-24,Antônio Oliveira,Peixe,Higiene,83.8,Pix,Lucas
+109,2023-10-10,Adriana Gomes,Gato,Brinquedo,193.75,Cartão,Maria
+110,2023-07-15,Adriana Souza,Peixe,Remédio,171.49,Dinheiro,Ana
+111,2023-11-04,Adriana Pereira,Peixe,Acessório,68.09,Cartão,Beatriz
+112,2023-11-27,Carlos Ribeiro,Gato,Higiene,144.05,Dinheiro,Fernanda
+113,2023-10-08,Carlos Costa,Peixe,Acessório,33.32,Pix,Ana
+114,2023-03-06,Francisca Santos,Peixe,Ração,158.64,Dinheiro,Maria
+115,2023-10-08,Adriana Santos,Roedor,Remédio,198.25,Pix,Beatriz
+116,2023-07-29,Maria Almeida,Roedor,Ração,54.29,Pix,João
+117,2023-07-11,Ana Pereira,Roedor,Brinquedo,37.05,Pix,Maria
+118,2023-06-13,João Ribeiro,Gato,Acessório,96.5,Pix,Fernanda
+119,2023-05-06,Maria Costa,Cachorro,Higiene,16.5,Pix,Marcos
+120,2023-01-09,José Pereira,Peixe,Acessório,114.3,Cartão,João
+121,2023-12-05,Antônio Almeida,Peixe,Brinquedo,39.74,Dinheiro,Carlos
+122,2023-11-14,Juliana Pereira,Peixe,Remédio,56.27,Pix,Ana
+123,2023-05-12,José Pereira,Peixe,Remédio,28.77,Pix,Carlos
+124,2023-06-23,Ana Silva,Cachorro,Remédio,61.72,Pix,Beatriz
+125,2023-01-06,Francisca Ribeiro,Peixe,Acessório,156.57,Cartão,Beatriz
+126,2023-11-11,Maria Gomes,Cachorro,Higiene,113.12,Pix,João
+127,2023-08-29,Ana Santos,Cachorro,Higiene,56.64,Dinheiro,Fernanda
+128,2023-07-30,Adriana Ribeiro,Roedor,Higiene,20.43,Dinheiro,Carlos
+129,2023-05-20,Maria Santos,Cachorro,Brinquedo,43.8,Cartão,Maria
+130,2023-10-25,José Santos,Pássaro,Ração,34.42,Dinheiro,Marcos
+131,2023-07-30,Carlos Costa,Pássaro,Remédio,58.99,Dinheiro,João
+132,2023-05-30,Paulo Souza,Cachorro,Higiene,157.82,Cartão,Lucas
+133,2023-04-07,Carlos Silva,Peixe,Remédio,195.25,Dinheiro,Beatriz
+134,2023-04-15,José Souza,Pássaro,Higiene,54.96,Dinheiro,Juliana
+135,2023-07-16,José Rodrigues,Roedor,Ração,199.28,Pix,Pedro
+136,2023-05-03,Adriana Silva,Peixe,Remédio,121.54,Cartão,Ana
+137,2023-08-10,João Souza,Gato,Brinquedo,10.44,Pix,João
+138,2023-07-23,Ana Costa,Peixe,Brinquedo,146.01,Dinheiro,Juliana
+139,2023-10-10,José Gomes,Pássaro,Acessório,102.85,Dinheiro,Carlos
+140,2023-09-12,Adriana Ribeiro,Peixe,Remédio,110.83,Dinheiro,Lucas
+141,2023-11-05,Adriana Ribeiro,Cachorro,Remédio,119.58,Pix,Fernanda
+142,2023-02-08,Adriana Ribeiro,Cachorro,Acessório,102.28,Pix,Ana
+143,2023-10-22,Adriana Santos,Gato,Brinquedo,48.13,Cartão,João
+144,2023-12-31,José Santos,Gato,Higiene,32.22,Dinheiro,Maria
+145,2023-03-27,Ana Ribeiro,Pássaro,Ração,98.7,Dinheiro,Lucas
+146,2023-03-23,João Costa,Peixe,Higiene,133.14,Dinheiro,Maria
+147,2023-06-30,Antônio Ribeiro,Peixe,Remédio,150.32,Pix,Marcos
+148,2023-02-11,Ana Pereira,Gato,Ração,143.16,Dinheiro,Maria
+149,2023-11-29,Antônio Souza,Peixe,Acessório,113.94,Dinheiro,Ana
+150,2023-05-05,José Souza,Pássaro,Brinquedo,68.64,Cartão,Marcos
+151,2023-08-20,Maria Rodrigues,Peixe,Ração,92.77,Dinheiro,Ana
+152,2023-10-25,Antônio Costa,Cachorro,Remédio,194.65,Cartão,João
+153,2023-02-09,Francisca Silva,Cachorro,Ração,186.75,Cartão,Pedro
+154,2023-10-14,Antônio Oliveira,Cachorro,Remédio,79.13,Dinheiro,Marcos
+155,2023-06-21,João Silva,Gato,Higiene,52.25,Dinheiro,Pedro
+156,2023-08-03,Maria Pereira,Pássaro,Ração,150.11,Pix,Lucas
+157,2023-08-15,Ana Santos,Cachorro,Acessório,163.29,Pix,Pedro
+158,2023-07-12,Ana Santos,Cachorro,Acessório,159.4,Pix,Beatriz
+159,2023-07-08,Juliana Almeida,Peixe,Acessório,15.11,Cartão,Juliana
+160,2023-06-26,Francisca Almeida,Roedor,Ração,147.58,Cartão,João
+161,2023-09-22,Paulo Costa,Roedor,Ração,108.04,Cartão,Pedro
+162,2023-12-08,José Silva,Pássaro,Brinquedo,70.68,Dinheiro,Ana
+163,2023-01-12,Ana Ribeiro,Peixe,Ração,132.05,Cartão,Beatriz
+164,2023-03-08,Maria Costa,Pássaro,Brinquedo,65.36,Cartão,Pedro
+165,2023-03-15,Antônio Souza,Cachorro,Brinquedo,163.73,Dinheiro,Lucas
+166,2023-10-31,Adriana Silva,Gato,Brinquedo,157.79,Cartão,Ana
+167,2023-12-12,Maria Gomes,Peixe,Higiene,154.7,Pix,Marcos
+168,2023-09-11,Maria Santos,Peixe,Acessório,181.77,Pix,Fernanda
+169,2023-08-23,Antônio Santos,Peixe,Brinquedo,72.29,Pix,Carlos
+170,2023-08-08,Adriana Oliveira,Pássaro,Acessório,26.6,Pix,Carlos
+171,2023-09-04,Francisca Gomes,Roedor,Remédio,168.47,Pix,Carlos
+172,2023-09-21,José Ribeiro,Cachorro,Brinquedo,150.78,Cartão,Maria
+173,2023-06-13,Juliana Souza,Roedor,Ração,125.71,Dinheiro,Maria
+174,2023-06-16,José Costa,Pássaro,Brinquedo,111.38,Dinheiro,João
+175,2023-09-09,Maria Costa,Cachorro,Remédio,27.55,Dinheiro,Maria
+176,2023-08-11,Paulo Souza,Gato,Acessório,163.27,Dinheiro,João
+177,2023-02-13,Ana Gomes,Roedor,Higiene,71.44,Cartão,Pedro
+178,2023-05-15,Adriana Santos,Pássaro,Acessório,85.54,Pix,Pedro
+179,2023-10-12,Adriana Silva,Gato,Higiene,159.47,Dinheiro,Carlos
+180,2023-05-12,Maria Oliveira,Peixe,Higiene,67.68,Cartão,João
+181,2023-04-01,José Costa,Gato,Brinquedo,73.0,Pix,Ana
+182,2023-07-24,Ana Pereira,Roedor,Ração,99.45,Dinheiro,Carlos
+183,2023-12-17,Ana Almeida,Peixe,Remédio,145.14,Cartão,Ana
+184,2023-03-21,Ana Pereira,Peixe,Acessório,118.79,Cartão,Pedro
+185,2023-05-26,Maria Oliveira,Pássaro,Brinquedo,95.98,Dinheiro,Lucas
+186,2023-12-17,Carlos Silva,Pássaro,Ração,98.13,Cartão,Juliana
+187,2023-05-26,Francisca Rodrigues,Roedor,Brinquedo,64.04,Pix,Lucas
+188,2023-09-26,Ana Costa,Roedor,Brinquedo,16.69,Dinheiro,Pedro
+189,2023-01-28,Maria Santos,Roedor,Remédio,157.34,Pix,João
+190,2023-04-15,José Ribeiro,Cachorro,Higiene,164.44,Pix,Pedro
+191,2023-10-29,Ana Almeida,Pássaro,Brinquedo,182.01,Cartão,Carlos
+192,2023-07-19,Ana Ribeiro,Roedor,Higiene,28.08,Dinheiro,Fernanda
+193,2023-08-12,Maria Silva,Cachorro,Higiene,11.57,Cartão,Pedro
+194,2023-08-14,Antônio Oliveira,Pássaro,Higiene,167.95,Pix,João
+195,2023-04-09,Antônio Oliveira,Gato,Higiene,195.48,Pix,Juliana
+196,2023-01-01,João Pereira,Pássaro,Remédio,140.26,Pix,Ana
+197,2023-05-20,Ana Gomes,Gato,Remédio,122.37,Pix,Beatriz
+198,2023-10-11,Paulo Ribeiro,Peixe,Acessório,119.55,Pix,Maria
+199,2023-01-03,Juliana Ribeiro,Roedor,Ração,79.66,Dinheiro,Marcos
+200,2023-03-28,Antônio Almeida,Gato,Acessório,25.52,Pix,Lucas
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
+,,,NaN,,
